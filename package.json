@@ -1,0 +1,20 @@
+{
+  "name": "js_position_detect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkXultra/js_position_detect.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkXultra/js_position_detect/issues"
+  },
+  "homepage": "https://github.com/mkXultra/js_position_detect#readme"
+}
